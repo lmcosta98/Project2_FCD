@@ -141,3 +141,9 @@ dmypy.json
 
 # Built Visual Studio Code Extensions
 *.vsix
+
+# MacOS 
+.DS_Store
+
+# Datasets used
+drugLib_raw/
