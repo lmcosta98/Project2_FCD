@@ -147,3 +147,4 @@ dmypy.json
 
 # Datasets used
 drugLib_raw/
+drugsCom_raw/
